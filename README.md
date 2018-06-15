@@ -6,7 +6,7 @@ Architectural pattern : MVVM
 
 Just Build and run the project.
 
-"https://reqres.in/" were used for fake API for login , Registraion &  users List.
+"https://reqres.in/" was used for fake API for login , Registraion &  users List.
 NOTE: Reqres does not store any of your data at all. Once you send it to them, they just send it straight back...and then it's gone!
 
 
