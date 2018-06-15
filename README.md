@@ -10,7 +10,11 @@ Just Build and run the project.
 
 ***Fake API for Login & Registration*** 
 "https://reqres.in/" was used for fake API for login , Registraion &  users List.
+<<<<<<< HEAD
+NOTE :- Reqres does not store any of your data at all. Once you send it to them, they just send it straight back...and then it's gone!
+=======
 NOTE: Reqres does not store any of your data at all. Once you send it to them, they just send it straight back...and then it's gone!
+>>>>>>> 46419f52a3056ca73a2a8fa17e988d33f3ff7865
 
 
 ### Third Party libraries
