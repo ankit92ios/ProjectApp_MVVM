@@ -8,6 +8,7 @@ Swift
 
 Just Build and run the project.
 
+***Fake API for Login & Registration*** 
 "https://reqres.in/" was used for fake API for login , Registraion &  users List.
 NOTE: Reqres does not store any of your data at all. Once you send it to them, they just send it straight back...and then it's gone!
 
@@ -16,7 +17,7 @@ NOTE: Reqres does not store any of your data at all. Once you send it to them,
 
 To minimize code following dependencies were used. Thanks to these dependencies to make work easy. You can visit each repository by searching on GitHub.
 
-Fake API for Login & Registration 
+
 
 * Alamofire
 * SWRevealViewController
