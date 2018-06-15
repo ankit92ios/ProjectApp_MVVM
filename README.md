@@ -3,6 +3,8 @@
 Project App is a exmaple of a small swift project. It helps developer to understand code structures. It contains login, registration and user list page.
 
 Architectural pattern : MVVM 
+Swift 
+
 
 Just Build and run the project.
 
